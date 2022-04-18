@@ -20,3 +20,4 @@ getItem = function (id) {
 
 exports.getListItem = getListItem;
 exports.getItem = getItem;
+exports.postTasks = postTasks;
